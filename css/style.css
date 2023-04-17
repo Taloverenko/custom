@@ -384,7 +384,7 @@ margin-bottom: 20px;
 .tooltip {
   position: relative;
   width: 375px;
-  height: 160px;
+  min-height: 160px;
   background-color: #FFF;
   padding: 20px 78px 20px 30px;
   border-radius: 10px;
